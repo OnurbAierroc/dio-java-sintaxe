@@ -11,6 +11,7 @@ public class Condicional {
         int b = 6;
         
         String resultadoString = a==b ? "verdadeiro" : "falso"; // condicional ternario
+        System.out.println("int bala = a==b ? \"verdadeiro\" : \"falso\"");
         int resultadoInt = a==b ? 1 : 0;
 
         System.out.println(resultadoString);
