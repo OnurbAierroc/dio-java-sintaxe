@@ -3,7 +3,7 @@ public class SmartTv {
     boolean ligada = false;
     int canal = 1;
     int volume = 26;
-
+    
     public void definirCanal(int n){
         canal = n;
     }
